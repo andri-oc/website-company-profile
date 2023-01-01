@@ -43,7 +43,8 @@
 <h2>4. HTML Setup<h2>
 <h4>Next you just have to make sure you link the files properly in your webpage. Generally it is wise to import javascript files at the end of the body to reduce page load time. Follow the example below on how to import Materialize into your webpage.</h4>
 
-```   <!DOCTYPE html>
+```sh
+<!DOCTYPE html>
   <html>
     <head>
       <!--Import Google Icon Font-->
